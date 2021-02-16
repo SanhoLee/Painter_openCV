@@ -78,6 +78,8 @@
 
 /* Begin PBXFileReference section */
 		72170B6025DAC7A7004F59B5 /* info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = info.plist; sourceTree = "<group>"; };
+		727D9A5D25DBFE0E00BEE6DB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		727D9A5E25DBFE8E00BEE6DB /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		7290EFC425D6AFBD0076D95C /* opencv_project */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = opencv_project; sourceTree = BUILT_PRODUCTS_DIR; };
 		7290EFC725D6AFBD0076D95C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		7290EFCF25D6B7990076D95C /* libopencv_dnn_superres.4.5.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_dnn_superres.4.5.1.dylib; path = ../../../../../usr/local/Cellar/opencv/4.5.1_2/lib/libopencv_dnn_superres.4.5.1.dylib; sourceTree = "<group>"; };
@@ -204,6 +206,8 @@
 		7290EFBB25D6AFBC0076D95C = {
 			isa = PBXGroup;
 			children = (
+				727D9A5E25DBFE8E00BEE6DB /* .gitignore */,
+				727D9A5D25DBFE0E00BEE6DB /* README.md */,
 				7290EFF725D6B79B0076D95C /* libopencv_alphamat.4.5.1.dylib */,
 				7290F00425D6B79C0076D95C /* libopencv_aruco.4.5.1.dylib */,
 				7290EFF025D6B79B0076D95C /* libopencv_bgsegm.4.5.1.dylib */,
